@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# Local binaries generated while testing single-file programs
+bin/
+build/
+cmake-build-*/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Keep learning sample text files tracked.
+!*.txt
