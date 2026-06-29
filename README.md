@@ -1,3 +1,14 @@
+<!-- ecoreal-repo-header: cpp-systems-lab -->
+<div align="center">
+
+<img src="assets/repo-icon.png" width="160" alt="C++ Systems Lab icon">
+
+# C++ Systems Lab
+
+C/C++ learning exercises and computer systems programming notes.
+
+</div>
+
 # Dev_cpp
 
 [English](README.en.md)
